@@ -11,4 +11,4 @@
 
 ### Selected Pen - link to your selected pen
 
-[3D CSS Typography](https://codepen.io)
+[3D CSS Typography](https://codepen.io/noahblon/pen/ExwmWq)
